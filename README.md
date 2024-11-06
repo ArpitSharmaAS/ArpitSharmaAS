@@ -11,7 +11,7 @@
 
 ---
 
-- 🌐 **Portfolio**: [arpitsharmaas.netlify.app](https://arpitsharmaas.netlify.app/)
+- 🌐 **Portfolio**: [🔗](https://arpitsharmaas.netlify.app/)
 - 📫 **Contact me**: arpitsharmably18@gmail.com
 - 📄 **Resume**: [View Here](https://arpitsharmaas.netlify.app/)
 
