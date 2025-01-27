@@ -3,9 +3,9 @@
   <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&h=400&q=80" alt="coding banner" width="100%"/>
 
   <!-- Animated Text -->
-  <h1>
+  <h2>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;MERN+%2B+AI%2FML+Expert;Let's+build+something+amazing!" alt="Typing SVG" />
-  </h1>
+  </h2>
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=arpitsharmaas&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
