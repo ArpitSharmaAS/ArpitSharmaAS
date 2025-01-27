@@ -3,7 +3,7 @@
   <img src="https://images.unsplash.com/photo-1515705576963-95cad62945b6?auto=format&fit=crop&w=1200&h=400&q=80" alt="cyberpunk banner" width="100%"/>
   
   <!-- Glitch Text Animation -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" margin-top="20px">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=50&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=175&lines=WELCOME+TO+THE+MATRIX;%3C%2F+FULL+STACK+DEVELOPER+%2F%3E;AI%2FML+ARCHITECT" alt="Typing SVG" />
   </a>
 
